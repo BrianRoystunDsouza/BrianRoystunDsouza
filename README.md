@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://magenta-youtiao-c50644.netlify.app](https://magenta-youtiao-c50644.netlify.app)
 
-- 💬 Ask me about: **Html5,Css3,Javascript,Node.js**
+- 💬 Ask me about: **React.js,Html5,Css3,Javascript,Node.js,MongoDb**
 
 - 📫 How to reach me: **brianroystun@gmail.com**
 
