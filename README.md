@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **brianroystun@gmail.com**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1SaMpTcSQma743EbSSaES754Ad4WUZjF2/view?usp=sharing](https://drive.google.com/file/d/1SaMpTcSQma743EbSSaES754Ad4WUZjF2/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1MZaFRB7lkTyPk8IZ86fiMrCzqbtsxnvd/view?usp=share_link](https://drive.google.com/file/d/1MZaFRB7lkTyPk8IZ86fiMrCzqbtsxnvd/view?usp=share_link)
 
 
 <h3 align="left">Connect with me:</h3>
